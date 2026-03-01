@@ -9,3 +9,4 @@
 
 ## Klassenmitglieder
 Nicolas
+Jakob
