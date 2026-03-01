@@ -8,5 +8,4 @@
 ---
 
 ## Klassenmitglieder
-Nicolas,
-Jakob
+Nicolas
