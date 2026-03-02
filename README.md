@@ -10,7 +10,6 @@
 
 ## Klassenmitglieder
 Nicolas Schlange,
-Emma,
 Jillian,
 Emilie,
 Max,
