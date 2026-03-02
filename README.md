@@ -9,5 +9,4 @@
 
 ## Klassenmitglieder
 Nicolas,
-Jakob,
-Julian
+Jakob
