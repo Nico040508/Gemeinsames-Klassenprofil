@@ -10,4 +10,5 @@
 ## Klassenmitglieder
 Nicolas,
 Emma,
-Jillian
+Jillian,
+Max
