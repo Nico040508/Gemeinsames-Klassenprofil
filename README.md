@@ -8,7 +8,7 @@
 ---
 
 ## Klassenmitglieder
-Nicolas,
+Nicolas Schlange,
 Emma,
 Jillian,
 Max,
