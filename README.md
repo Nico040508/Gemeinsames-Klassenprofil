@@ -11,6 +11,7 @@
 Nicolas Schlange,
 Emma,
 Jillian,
+Emilie,
 Max,
 Milan,
 JulainK-bit
