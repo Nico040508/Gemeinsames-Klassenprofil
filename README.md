@@ -8,4 +8,6 @@
 ---
 
 ## Klassenmitglieder
-Nicolas
+Nicolas,
+Emma,
+Jillian
